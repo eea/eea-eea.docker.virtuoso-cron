@@ -1,4 +1,4 @@
-FROM uopenlink/virtuoso-opensource-7:7.2buntu:16.04
+FROM openlink/virtuoso-opensource-7:7.2
 
 MAINTAINER michimau <mauro.michielon@eea.europa.eu>
 
